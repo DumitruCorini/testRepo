@@ -1,0 +1,66 @@
+{
+  "modelVersion" : "2.0",
+  "id" : "p1",
+  "name" : "p1",
+  "lastUpdate" : 1604418875368,
+  "rows" : [
+    [
+      {
+        "type" : "component",
+        "dimension" : {
+          "xs" : 12,
+          "sm" : 12,
+          "md" : 12,
+          "lg" : 12
+        },
+        "propertyValues" : {
+          "cssClasses" : {
+            "type" : "constant",
+            "value" : ""
+          },
+          "hidden" : {
+            "type" : "constant",
+            "value" : false
+          },
+          "value" : {
+            "type" : "constant",
+            "value" : "This is the initial value"
+          },
+          "color" : {
+            "type" : "constant",
+            "value" : "RebeccaPurple"
+          },
+          "background" : {
+            "type" : "constant",
+            "value" : "Yellow"
+          }
+        },
+        "reference" : "1d4fbbbe-1f6b-47fa-9e60-02b2ef323f28",
+        "hasValidationError" : false,
+        "id" : "customCw1"
+      }
+    ]
+  ],
+  "assets" : [
+    {
+      "id" : "712eda33-51bb-47a1-ae32-da492131e184",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "3cd5fc84-e4f4-47d5-9af3-a3268b019a45",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "variables" : { },
+  "hasValidationError" : false,
+  "uuid" : "6307026c-a951-48c8-9bf0-6ff7b7835d26",
+  "type" : "page",
+  "description" : "Page generated with Bonita UI designer"
+}
